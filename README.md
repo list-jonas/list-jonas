@@ -21,6 +21,8 @@
 <p align="left">
 <a href="https://discord.gg/Shadowcrafter#5653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shadowcrafter#5653" height="30" width="40" /></a>
 </p>
+<br />
+<a href="https://discord.com/users/675399364172185622"><img src="https://lanyard.cnrad.dev/api/675399364172185622" /></a>
 
 #
 
