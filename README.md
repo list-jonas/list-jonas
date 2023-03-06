@@ -54,7 +54,7 @@
 <div align="center">
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=shadowcrafter88&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true"
+    srcset="https://github-readme-stats-steel-omega.vercel.app/api?username=shadowcrafter88&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -68,11 +68,11 @@
 
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowcrafter88&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true"
+    srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=shadowcrafter88&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowcrafter88&show_icons=true"
+    srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=shadowcrafter88&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowcrafter88&show_icons=true" />
