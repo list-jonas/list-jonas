@@ -1,5 +1,5 @@
 <p align="center">
-![MasterHead](./src/img/Head2.png)
+  <img alt="head" src="./src/img/Head2.png" width="75%" />
 </p>
 
 <!-- Social badges section -->
