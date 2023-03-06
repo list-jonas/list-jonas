@@ -6,7 +6,18 @@
 
 ---
 
-<img border-radius="20px" src="https://komarev.com/ghpvc/?username=shadowcrafter88&label=Profile%20views&color=0e75b6&style=flat" alt="shadowcrafter88" />
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<p align="center">
+  <a href="https://github.com/shadowcrafter88?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shadowcrafter88?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/shadowcrafter88?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/shadowcrafter88?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+  <a href="https://view-count-badge.zohan.tech/shadowcrafter88/profile?color=6b105d&labelColor=913e96&style=for-the-badge&logo=eye&label=VISITORS&logoColor=white">
+    <img alt="views" title="GitHub profile views" src="https://view-count-badge.zohan.tech/shadowcrafter88/profile?color=6b105d&labelColor=913e96&style=for-the-badge&logo=eye&label=VISITORS&logoColor=white"/></a>
+  <!--<a href="https://npmjs.com/~zo-bro-23"><img alt="downloads" title="Downloads" src="https://custom-icon-badges.demolab.com/badge/5506-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a> -->
+</p>
 
 #
 
