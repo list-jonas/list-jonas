@@ -7,8 +7,6 @@
 ---
 
 <!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://github.com/shadowcrafter88?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shadowcrafter88?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -94,7 +92,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowcrafter88&" />
   </picture>
   
-  <a href="https://github.com/shadowcrafter88" align="center">
+  <!-- <a href="https://github.com/shadowcrafter88" align="center">
     <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=shadowcrafter88&repo=shadowcrafter88&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  </a>
+  </a> -->
 <div>
