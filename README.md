@@ -93,4 +93,8 @@
   />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowcrafter88&" />
   </picture>
+  
+  <a href="https://github.com/shadowcrafter88" align="center">
+    <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=shadowcrafter88&repo=shadowcrafter88&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  </a>
 <div>
