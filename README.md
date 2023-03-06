@@ -56,7 +56,7 @@
 <div align="center">
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=shadowcrafter88&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=shadowcrafter88&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -70,7 +70,7 @@
 
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowcrafter88&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowcrafter88&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -84,7 +84,7 @@
 
   <picture>
   <source 
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=shadowcrafter88&theme=dark"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=shadowcrafter88&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
