@@ -1,9 +1,6 @@
-![MasterHead](./src/img/Head.png)
-
-<h1 align="center">Hi 👋, I'm Jonas List</h1>
-<h3 align="center">A passionate frontend developer from Austria</h3>
-
----
+<p align="center">
+![MasterHead](./src/img/Head2.png)
+</p>
 
 <!-- Social badges section -->
 <p align="center">
