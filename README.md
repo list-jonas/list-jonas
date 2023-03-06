@@ -21,9 +21,11 @@
 <table align="center">
   <tr>
     <td>
+      <!-- Discord rich presence -->
       <a width="48%" href="https://discord.com/users/675399364172185622"><img src="https://lanyard.cnrad.dev/api/675399364172185622" /></a>
     </td>
     <td>
+      <!-- What I do -->
       <p width="48%">
         <p>
           - 🔭 I’m currently working on <b>3ML Cloud</b>
@@ -43,6 +45,7 @@
 
 ### 🧰 Languages and Tools
 
+<!-- My skills -->
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -116,16 +119,20 @@
 
 ### 📊 Stats
 <div align="center">
+  <!-- General Github stats -->
   <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=shadowcrafter88&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true" />
 
   <br />
 
+  <!-- Most used programming languages -->
   <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=shadowcrafter88&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true" />
 
   <br />
 
+  <!-- Streak information -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowcrafter88&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true" />
   
+  <!-- Commit snake -->
   <!-- <a href="https://github.com/shadowcrafter88" align="center">
     <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=shadowcrafter88&repo=shadowcrafter88&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
   </a> -->
