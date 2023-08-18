@@ -25,10 +25,10 @@
       <!-- What I do -->
       <p width="48%">
         <p>
-          - 🔭 I’m currently working on <b>3ML Cloud</b>
+          - 🔭 I’m currently working on <b>Shadow Cloud</b>
         </p>
         <p>
-          - 🌱 I’m currently learning <b>React, MongoDB</b>
+          - 🌱 I’m currently learning <b>C++</b>
         </p>
         <p>
           - 📫 How to reach me <b>jonas.list.1289@gmail.com</b>
