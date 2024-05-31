@@ -19,6 +19,7 @@
   <tr>
     <td>
       <!-- Discord rich presence -->
+      <!-- TODO: fix -->
       <a width="48%" href="https://discord.com/users/675399364172185622"><img src="https://lanyard.cnrad.dev/api/675399364172185622" /></a>
     </td>
     <td>
