@@ -15,18 +15,10 @@
 
 #
 
-      <!-- What I do -->
-      <p width="48%">
-        <p>
-          - 🔭 I’m currently working on <b>Shadow Cloud</b>
-        </p>
-        <p>
-          - 🌱 I’m currently learning <b>C++</b>
-        </p>
-        <p>
-          - 📫 How to reach me <b>jonas.list.1289@gmail.com</b>
-        </p>
-      </p>
+<!-- What I do -->
+- 🔭 I’m currently working on **Shadow Cloud**
+- 🌱 I’m currently learning <b>C++</b>
+- 📫 How to reach me **jonas.list.1289@gmail.com**
 
 #
 
