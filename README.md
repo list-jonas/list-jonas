@@ -15,14 +15,14 @@
 
 #
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td>
-      <!-- Discord rich presence -->
-      <!-- TODO: fix -->
+      Discord rich presence
+      TODO: fix
       <a width="48%" href="https://discord.com/users/675399364172185622"><img src="https://lanyard.cnrad.dev/api/675399364172185622" /></a>
     </td>
-    <td>
+    <td> -->
       <!-- What I do -->
       <p width="48%">
         <p>
@@ -35,9 +35,10 @@
           - 📫 How to reach me <b>jonas.list.1289@gmail.com</b>
         </p>
       </p>
-    </td>
+    <!-- </td>
   </tr>
 </table>
+-->
 
 #
 
