@@ -22,7 +22,7 @@
 
 #
 
-### 🧰 Languages and Tools
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=%F0%9F%A7%B0Languages+and+Tools)](https://git.io/typing-svg)
 
 <!-- My skills -->
 <p align="center"> 
@@ -31,7 +31,8 @@
 
 #
 
-### 📊 Stats
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=%F0%9F%93%8A+Stats)](https://git.io/typing-svg)
+
 <div align="center">
   <!-- General Github stats -->
   <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=shadowcrafter88&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true" />
