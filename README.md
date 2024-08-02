@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on **1Tool AI**
 - 🌱 I’m currently learning <b>C++</b>
 - 📫 How to reach me **jonas.list.1289@gmail.com**
-- 🌐 Check out my portfolio [here](https://jonas-list.vercel.app/)
+- 🌐 Check out my portfolio [jonas-list.vercel.app](https://jonas-list.vercel.app/)
 
 #
 
