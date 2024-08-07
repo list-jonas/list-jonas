@@ -52,4 +52,15 @@
   <!-- <a href="https://github.com/list-jonas" align="center">
     <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=list-jonas&repo=list-jonas&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
   </a> -->
+
+  <!-- https://star-history.com/ -->
+  <a href="https://star-history.com/#https:/&Date">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=https:/&type=Date&theme=dark" />
+     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=https:/&type=Date" />
+     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=https:/&type=Date" />
+   </picture>
+  </a>
 <div>
+
+## Star History
