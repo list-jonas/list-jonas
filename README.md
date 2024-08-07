@@ -62,5 +62,3 @@
    </picture>
   </a>
 <div>
-
-## Star History
