@@ -18,7 +18,7 @@
 <!-- What I do -->
 - 🌐 Check out my portfolio **[jonas-list.vercel.app](https://www.listjonas.com/)**
 - 📫 How to reach me **jonas.list.1289@gmail.com**
-- 🔭 I’m currently working on **1Tool AI**
+- 🔭 I’m currently working on **Socialgram**
 - 🌱 I’m currently learning <b>C++</b>
 
 #
