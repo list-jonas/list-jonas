@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="head" src="./src/img/Head2.png" width="75%" />
+  <img alt="head" src="https://www.listjonas.com/api/og?color=dark" width="75%" />
 </p>
 
 <!-- Social badges section -->
