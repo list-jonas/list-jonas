@@ -46,7 +46,7 @@
   <br />
 
   <!-- Streak information -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=list-jonas&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=list-jonas&background=0d1117&currStreakNum=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true&include_all_commits=true&count_private=true&sideNums=ffff" />
   
   <!-- Commit snake -->
   <!-- <a href="https://github.com/list-jonas" align="center">
