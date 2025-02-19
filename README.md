@@ -19,7 +19,7 @@
 - 🌐 Check out **[Jonas List's Portfolio](https://www.listjonas.com/)**
 - 📫 How to reach me **jonas.list.1289@gmail.com**
 - 🔭 I’m currently working on **Bestgrowth**
-- 🌱 I’m currently learning <b>php</b>
+- 🌱 I’m currently learning <b>PHP</b>
 
 #
 
