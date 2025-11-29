@@ -27,7 +27,7 @@
 
 <!-- My skills -->
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=ts,js,css,html,dart,go,py,rust,regex,docker,express,figma,git,github,githubactions,gitlab,jest,linux,mongodb,nextjs,nodejs,postgres,postman,powershell,react,replit,sqlite,mysql,stackoverflow,svg,vercel,vite,webpack,tailwind,cloudflare,discord,bots,firebase,gcp,md,,,twitter,unity,godot,java&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,css,html,c,java,py,regex,docker,express,figma,git,github,githubactions,gitlab,jest,linux,mongodb,nextjs,nodejs,postgres,postman,powershell,react,replit,sqlite,mysql,stackoverflow,svg,vercel,vite,webpack,tailwind,cloudflare,discord,bots,gcp,md,twitter,godot&perline=8&theme=dark" />
 </p>
 
 #
